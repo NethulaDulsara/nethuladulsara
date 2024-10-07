@@ -1,14 +1,35 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
+
 <h1 align="center">Hi 👋, I'm Nethula Dulsara</h1>
 <h3 align="center">i'm undergraduate Interactive media student at SLIIT</h3>
 
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Intractive+Media+Student;Undergraduate+Student+at+SLIIT;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethuladulsara&label=Profile%20views&color=0e75b6&style=flat" alt="nethuladulsara" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 I'm undergraduate at [SLIIT](SLIIT)
 
+- 📫 How to reach me **nethula00dulsara@gmail.com**
+
 - ⚡ Fun fact **I think i am funny**
 
+</td>
+<td width="100%" align="center">
+
+  <img align="center" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nethuladulsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nethuladulsara" height="30" width="40" /></a>
